@@ -12,11 +12,6 @@ A simple desktop quiz application built with Python and Tkinter. Create, manage,
 - ✅ **Score Tracking**: Get percentage scores and performance grades
 - ✅ **No Console Window**: Runs cleanly without black console window
 
-## Screenshots
-
-![Main Menu](screenshots/main_menu.png)
-![Test Mode](screenshots/test_mode.png)
-
 ## Requirements
 
 - Python 3.6 or higher
@@ -41,7 +36,7 @@ A simple desktop quiz application built with Python and Tkinter. Create, manage,
    
    **Option B: Git Clone**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/quiz-manager.git
+   git clone https://github.com/andrejsboka/quiz-manager.git
    cd quiz-manager
 ```
 
@@ -69,7 +64,7 @@ A simple desktop quiz application built with Python and Tkinter. Create, manage,
 
 2. **Download the project**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/quiz-manager.git
+   git clone https://github.com/andrejsboka/quiz-manager.git
    cd quiz-manager
 ```
 
@@ -94,7 +89,7 @@ A simple desktop quiz application built with Python and Tkinter. Create, manage,
 
 2. **Download the project**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/quiz-manager.git
+   git clone https://github.com/andrejsboka/quiz-manager.git
    cd quiz-manager
 ```
 
@@ -228,7 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@andrejsboka](https://github.com/andrejsboka)
 
 ## Acknowledgments
 
@@ -241,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 Your Name
+Copyright (c) 2026 Andrejs Boka
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
