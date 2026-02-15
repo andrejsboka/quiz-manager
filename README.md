@@ -12,6 +12,10 @@ A simple desktop quiz application built with Python and Tkinter. Create, manage,
 - ✅ **Score Tracking**: Get percentage scores and performance grades
 - ✅ **No Console Window**: Runs cleanly without black console window
 
+## Screenshots
+
+![Main Menu](screenshots/main_menu.png)
+
 ## Requirements
 
 - Python 3.6 or higher
